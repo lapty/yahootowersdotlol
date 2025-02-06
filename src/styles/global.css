@@ -82,6 +82,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+* *, *::before, *::after { 
+    animation-play-state: running !important;
+  }
+  
 body {
     font-family: 'Alexandria', sans-serif;
     background-color: #39c8a2;
@@ -89,10 +94,63 @@ body {
 }
 
 li > a.border {
-    border-width: 1px;
     border-color: #39c8a2;
+    border-width: 2px;
 
     &:hover {
         border-color: black;
+        border-width: 2px;
     }
 }
+
+.stroke {
+    -webkit-text-stroke-width: 2px;
+    -moz-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #111827;
+    -moz-text-stroke-color: #111827;
+    color: transparent;
+  }
+  
+  .shadow {
+    text-shadow: 6px 6px #db2777;
+  }
+  
+  .stroke-shadow {
+    color: #fef3c7;
+    text-shadow: -2px 0 #111827, 0 -2px #111827, 2px 0 #111827, 0 2px #111827, 2px 2px #111827, -2px -2px #111827, -2px 2px #111827, 2px -2px #111827, 6px 6px #db2777;
+  }
+  
+  .halftone {
+    position: relative;
+    letter-spacing: 6px;
+  }
+  .halftone:after {
+    content: "Yahoo Towers";
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAHElEQVQYV2NUVFT8f//+fUYGBgYGMAEDcA5IBQCKJQVmn76DhAAAAABJRU5ErkJggg==") repeat;
+    letter-spacing: 6px;
+    left: 3px;
+    top: 2px;
+    position: absolute;
+    z-index: -1;
+    -webkit-text-stroke-width: 0;
+    -moz-text-stroke-width: 0;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+  }
+  
+  .halftone-color:after {
+    background-color: #ff2121;
+  }
+  
+  body .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  @media screen and (min-width: 768px) {
+    body .grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
