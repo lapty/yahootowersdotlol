@@ -126,6 +126,7 @@ li > a.border {
   }
   .halftone:after {
     content: "Yahoo Towers";
+    width: 100%;
     background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAHElEQVQYV2NUVFT8f//+fUYGBgYGMAEDcA5IBQCKJQVmn76DhAAAAABJRU5ErkJggg==") repeat;
     letter-spacing: 6px;
     left: 3px;
@@ -143,6 +144,12 @@ li > a.border {
   
   .halftone-color:after {
     background-color: #ff2121;
+  }
+
+  .halftone-color:hover {
+    &:after {
+        background-color: transparent;
+    }
   }
   
   body .grid {
