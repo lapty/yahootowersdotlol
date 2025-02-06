@@ -143,12 +143,12 @@ li > a.border {
   }
   
   .halftone-color:after {
-    background-color: #ff2121;
+    background-color: transparent;
   }
 
   .halftone-color:hover {
     &:after {
-        background-color: transparent;
+        background-color: #ff2121;
     }
   }
   
