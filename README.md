@@ -25,7 +25,7 @@ src
 │   ├── adriana.jpg
 │   ├── euro.jpg
 │   ├── fran.jpg
-│   └── hero.png
+│   └── yahootowers.png
 ├── components
 │   ├── BaseHead.astro
 │   ├── Footer.astro
@@ -90,8 +90,8 @@ To run this project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jramma/sorollaportfolio.git
-   cd sorollaportfolio
+   git clone https://github.com/jramma/Towersportfolio.git
+   cd Towersportfolio
    ```
 
 2. **Install dependencies:**
