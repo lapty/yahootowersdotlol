@@ -1,15 +1,13 @@
 ---
 title: "Gratitude"
 description:
-  'An Assignment
-  '
+  ''
 icon: "1"
 pubDate: "Feb 14 2024"
 heroImage: "/src/assets/adriana.jpg"
 ---
 
 # Gratitude
-Gratitude
 
 Sitting on the floor of my room with two trusted companions, Alex and Kathy, we hee-heed and haw-hawed until the early morning. We spoke about wanting to write - scratching this normal human need to express and be seen. I always want to write something, only to be deafened and blocked by over-rationalization, laziness, perfectionism, nihilism and the litany of other excuses that prevent the most imperative component of writing - just doing it.
 
@@ -35,6 +33,6 @@ You walked me to and from school - and at home you played with me so much. It mu
 
 I only now realize my mischievous side was initially influenced by you. I remember how we used to wake up while mom was asleep so we could unwrap our Christmas presents to play and then carefully rewrapped them before going to bed. By Christmas day, we were bored of our gifts. Or even later on, when we’d check her door for any snoring so we could sneak out my window to smoke cigarettes on the driveway. I always thought those were the most beautiful nights. Do you remember that I was terrified of the movie Jumamji, and you told me the very believable fib that putting a glass of water on the television caused everything in the television to come out of the screen into reality? It’s a core memory - being threatened by a glass of water. 
 
-I grew up believing that you were the smartest person I’ll ever know, only to have grown to know you are the kindness. It is a contagious strength that could’ve only been shown through your actions and character. As a child it was attention and affection that I craved - and we were not a family that expressed that openly. Now as an adult, I understand that those cravings were actually being met the whole time - my eyes weren’t yet open enough to see. Now that they’re wide open, I can see there’s a whole lot of gratitude I need to catch up on.
+I grew up believing that you were the smartest person I’ll ever know, only to have grown to know you are the kindness. It is a contagious strength that could’ve only been shown through your actions and character. As a child it was attention and affection that I craved - and we were not a family that expressed that openly. Now as an adult, I understand that those cravings were actually being met the whole time - my heart wasn’t yet open enough to see. Now that it is wide open, I can see there’s a whole lot of gratitude I need to catch up on.
 
 Thank you for being the best influence on my life. I love you.
