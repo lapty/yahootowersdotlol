@@ -163,5 +163,13 @@ li > a.border {
   }
   
   #yahooBtn {
+    position: absolute;
     outline: 0;
+    right: 50%;
+    width: 100px;
+    height: 100px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
   }

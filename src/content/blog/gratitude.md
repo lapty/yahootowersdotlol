@@ -4,7 +4,7 @@ description:
   ''
 icon: "1"
 pubDate: "Feb 14 2024"
-heroImage: "/src/assets/adriana.jpg"
+heroImage: "/src/assets/trung.jpg"
 ---
 
 # Gratitude
@@ -19,7 +19,10 @@ I FaceTimed my mother on a Sunday afternoon. I was still in bed, wrapped in my b
 
 I moved the screen away from my face and sobbed. Our lives have been a constant dichotomy of hardship. My mind was flushed with images of my mother leaving early in the morning and arriving late at night, every day, from 8am to 8pm, for years. During this window of obligation, the rest of the images flooded towards my older brother, Trung. While mother was gone to fend for her sons, my brother and I held down the fort. 
 
+![alt text](src/assets/trungfour.jpg "Mom and Sons")
+
 In our youth we spent most of our days together, only for the younger son to eventually be influenced elsewhere. I held that to my core - how I moved away from the peace and security of home to satiate my chaotic curiosity of a world outside of my family. Back then, I hungered for validation. Presently, I return, sated, with a writing topic ready. I’d like to write about writing a letter to my brother, who to this day I’m still not a hundred percent sure he knows how I feel about him. I hope to clear this up now.
+
 
 —-
 
@@ -29,6 +32,8 @@ It was a complicated childhood we both lived, but I at least still had you to gu
 
 I am thankful for all the little things you taught me, only to truly understand the larger lessons I have learned from your tenderness. I still make origami cranes as a homage to you being my very first teacher. I tried to make my way towards a thousand, because I heard you could make a wish, but gave up in the two hundreds. Or showing me the proper technique to maximize warmth when we came out of the shower on those cold mornings before school, sharing the volleyball-sized space heater to warm up before changing. I think about the moment you taught me how to ride a bike, and wonder who taught you this freedom you are now imparting onto me. You were really patient with me - I’m sorry I was so impatient!
 
+![alt text](src/assets/trungtwo.jpg "Mom and Sons")
+
 You walked me to and from school - and at home you played with me so much. It must’ve eaten you up to let me use the Gameboy when we shared the same save, but you always gave me my turn. I think about the optimistic voice you made for that stuffed Pikachu plush that I often clutch when I’m at home. You made the Bulbasaur voice grumpy - I reckon you mirrored that with us - me as Pikachu, filled with zest and ignorance and you as the pragmatically crabby Bulbasaur. 
 
 I only now realize my mischievous side was initially influenced by you. I remember how we used to wake up while mom was asleep so we could unwrap our Christmas presents to play and then carefully rewrapped them before going to bed. By Christmas day, we were bored of our gifts. Or even later on, when we’d check her door for any snoring so we could sneak out my window to smoke cigarettes on the driveway. I always thought those were the most beautiful nights. Do you remember that I was terrified of the movie Jumamji, and you told me the very believable fib that putting a glass of water on the television caused everything in the television to come out of the screen into reality? It’s a core memory - being threatened by a glass of water. 
@@ -36,3 +41,5 @@ I only now realize my mischievous side was initially influenced by you. I rememb
 I grew up believing that you were the smartest person I’ll ever know, only to have grown to know you are the kindness. It is a contagious strength that could’ve only been shown through your actions and character. As a child it was attention and affection that I craved - and we were not a family that expressed that openly. Now as an adult, I understand that those cravings were actually being met the whole time - my heart wasn’t yet open enough to see. Now that it is wide open, I can see there’s a whole lot of gratitude I need to catch up on.
 
 Thank you for being the best influence on my life. I love you.
+
+![alt text](src/assets/trungthree.jpg "Brothers")
