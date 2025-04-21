@@ -1,25 +1,42 @@
 ---
 import { Icon } from "astro-icon/components";
 import { Image } from "astro:assets";
+import yahooLanding from "../../src/assets/yahootowerslanding.png"
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/assets/*.{jpeg,jpg,png,gif}"
 );
+
 ---
 
 <section class="py-20 flex md:flex-row flex-col px-4 md:px-0 gap-10 md:gap-0">
   <div class="flex flex-col gap-6 justify-start items-start md:w-1/2">
-    <h1 class="text-pblack">Hi, it's Yahoo Towers.</h1>
+    <h1 class="text-pblack">Hi!</h1>
     <p>
       Yahoo Towers is an alias for C****** When, which is an alias for Cha**** *****n, which is an alias for ____.
     </p>
+
     <a
-      rel="noopener noreferrer"
-      href="https://www.youtube.com/watch?v=ifgEjv27fe0"
-      target="_blank"
-      class="bg-pgreen px-5 py-3 border-1 border-black rounded-lg shadow-card hover:shadow-hover transition"
-    >
-      Important Button
-    </a>
+    rel="noopener noreferrer"
+    href="https://www.youtube.com/watch?v=ifgEjv27fe0"
+    target="_blank"
+    class="bg-pgreen px-5 py-3 border-1 border-black rounded-lg shadow-card hover:shadow-hover transition"
+  >
+    Important Button
+  </a>
+
+
+
+
+    <h2 class="text-pblack mt-20">What is Yahoo Towers?</h2>
+
+    <Image src={yahooLanding} alt="A description of my image." />
+
+    <p>Back in the late 90's to early 2000’s, in the old days of 56k dial up connection – </p>
+    <p>When we wanted to entertain ourselves, we’d boot up the Compaq Presario and immerse ourselves in the golden age of casual internet gaming - Yahoo.com games. 
+    <p>There was this one game that really caught my attention – <i>Yahoo! Towers</i>.
+    <p><i>Yahoo! Towers</i> was an online multiplayer puzzle game available on <i>Yahoo!</i> Games  that debuted in <a class="underline" href="https://www.ign.com/articles/1999/12/08/yahoo-tower-debut">December of ‘99</a>. 
+      It was similar to Tetris but <b>fierce</b>. Players would stack falling blocks of matching colors, which would then clear those blocks. The goal was to outlast opponents by preventing your stack from reaching the top while strategically sending obstacles to them. The blocks spelled out <i>Yahoo!</i> (exclamation point included) and when you hit them in a row, dopamine would fire off on all cylinders.</p>    
+    <p>Here’s a <a class="underline" href="https://www.youtube.com/watch?v=acglBijMEjE&t=16s"> video for reference</a>.</p> 
   </div>
   <div
     class="md:w-1/2 object-contain flex items-center justify-center p-10 group"
