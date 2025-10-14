@@ -17,7 +17,7 @@ Alex suggested, exactly one month from now, that Kathy and I submit something, a
 
 I FaceTimed my mother on a Sunday afternoon. I was still in bed, wrapped in my blanket and cozied. She answered the phone while with a customer at a nail salon somewhere in South Carolina. She positioned the phone so I could see her face and the underside of her arms. Her hands were offscreen but I knew they were confidently cutting cuticles with surgical precision. She teased me about just waking up in Vietnamese,  “Relaxing life huh? Not like mom’s!”
 
-I moved the screen away from my face and sobbed. Our lives have been a constant dichotomy of hardship. My mind was flushed with images of my mother leaving early in the morning and arriving late at night, every day, from 8am to 8pm, for years. During this window of obligation, the rest of the images flooded towards my older brother, Trung. While mother was gone to fend for her sons, my brother and I held down the fort. 
+I moved the screen away from my face and sobbed. Our lives have been a dichotomy of scarcity. My mind was flushed with images of my mother leaving early in the morning and arriving late at night, every day, from 8am to 8pm, for years. During this window of obligation, the rest of the images flooded towards my older brother, Trung. While mother was gone to fend for her sons, my brother and I held down the fort. 
 
 ![alt text](src/assets/trungfour.jpg "Mom and Sons")
 
