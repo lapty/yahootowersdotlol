@@ -7,7 +7,7 @@ pubDate: "Feb 14 2024"
 heroImage: "/src/assets/trung.jpg"
 ---
 
-# Gratitude1
+# Gratitudeg
 
 Sitting on the floor of my room with two trusted companions, Alex and Kathy, we hee-heed and haw-hawed until the early morning. We spoke about wanting to write - scratching this normal human need to express and be seen. I always want to write something, only to be deafened and blocked by over-rationalization, laziness, perfectionism, nihilism and the litany of other excuses that prevent the most imperative component of writing - just doing it.
 

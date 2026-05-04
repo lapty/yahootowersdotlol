@@ -4,7 +4,7 @@ description:
   ''
 icon: "2"
 pubDate: "May 4 2026"
-heroImage: ""
+heroImage: "/src/assets/trung.jpg"
 ---
 
 # Go Placidly
@@ -158,3 +158,5 @@ Then darkness.
 Then light.
 
 Charles, new and furious, opened his lungs and cried.
+
+![alt text](src/assets/trungthree.jpg "Brothers")
