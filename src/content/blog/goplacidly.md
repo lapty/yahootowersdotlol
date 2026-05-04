@@ -19,13 +19,13 @@ The light around him came from no particular direction. There were no walls, no 
 
 _I'm dreaming_, he thought.
 
-"Daniel."
+"Zev."
 
 The voice didn't startle him. That, in itself, was strange. It came from everywhere and from close by — intimate as a whisper, wide as an open field. He turned toward it the way you turn toward warmth.
 
 They were there. Had perhaps always been there.
 
-Not a figure. Not a form. A presence — intimate and endless, the way the sky is both infinite and close enough to touch. Daniel felt it move through him before he understood what it was. Something in his chest opened, involuntarily, like a window he hadn't known was shut. He felt seen — not scrutinized, not judged — but seen the way a child feels seen when someone who loves them walks into the room. Tears came before he could think to stop them. Not from sadness. From something older than sadness. He understood, dimly, that this was what love actually was — not the wanting, not the needing, but this: to be known completely and held anyway.
+Not a figure. Not a form. A presence — intimate and endless, the way the sky is both infinite and close enough to touch. Zev felt it move through him before he understood what it was. Something in his chest opened, involuntarily, like a window he hadn't known was shut. He felt seen — not scrutinized, not judged — but seen the way a child feels seen when someone who loves them walks into the room. Tears came before he could think to stop them. Not from sadness. From something older than sadness. He understood, dimly, that this was what love actually was — not the wanting, not the needing, but this: to be known completely and held anyway.
 
 "Sit down," They said. "You look like you're about to run."
 
@@ -33,7 +33,7 @@ Not a figure. Not a form. A presence — intimate and endless, the way the sky i
 
 The light shifted — and the nothing became somewhere.
 
-Daniel looked around, and then laughed. A short, disbelieving sound. He was standing in the back of a bar he had stood hundreds of times before. The wooden floors. A stool and a table, exactly where they always were — an ashtray on top, a jug of hand sanitizer beside it. And off to the side, unmistakably, the porta-potties, blanketed in stickers.
+Zev looked around, and then laughed. A short, disbelieving sound. He was standing in the back of a bar he had stood hundreds of times before. The wooden floors. A stool and a table, exactly where they always were — an ashtray on top, a jug of hand sanitizer beside it. And off to the side, unmistakably, the porta-potties, blanketed in stickers.
 
 He sat down. Something in his shoulders released. Of all the places — this one. He knew every corner of it.
 
@@ -53,7 +53,7 @@ They did not answer right away. Not because the answer was uncertain, but becaus
 
 "Yes," They said. Gently. The way you set something fragile down.
 
-Daniel's breath caught. "I wasn't finished," he said.
+Zev's breath caught. "I wasn't finished," he said.
 
 "No one ever feels finished."
 
@@ -69,7 +69,7 @@ They drew closer — not moving, exactly, but nearer somehow, the warmth of Them
 
 Silence. The light around them seemed to soften, as though it were listening.
 
-"What is the point?" Daniel asked. The genuine, exhausted question of someone only now getting around to it.
+"What is the point?" Zev asked. The genuine, exhausted question of someone only now getting around to it.
 
 There was something in Their presence then — sorrow and joy so braided together they could not be separated, ancient and immediate at once.
 
@@ -85,7 +85,7 @@ After a brief pause, he asked: "What happens now?"
 
 "You have been here before," They said. "Not here, exactly. But in this conversation. One hundred and thirty-six times."
 
-Daniel turned the number over. "And I never remember."
+Zev turned the number over. "And I never remember."
 
 "No."
 
@@ -105,7 +105,7 @@ They were still. "One hundred and thirty-seven," They said, "and you stay. With 
 
 The light shifted — not dramatically, but the way a season changes. Something vast moving beneath the surface.
 
-"I don't want to go back," Daniel said. Plainly, without shame. "I'm tired. Not just from this life. From all of it."
+"I don't want to go back," Zev said. Plainly, without shame. "I'm tired. Not just from this life. From all of it."
 
 "I know."
 
@@ -115,7 +115,7 @@ They did not waver.
 
 "Because love is not a thing I can give you," They said. "It is a thing you have to become."
 
-Daniel stared. "That sounds like a riddle."
+Zev stared. "That sounds like a riddle."
 
 "It is. And you have been solving it, one life at a time. You are closer than you know."
 
@@ -129,13 +129,13 @@ When he looked up again, something had shifted in him — the expression of a ma
 
 "That's everything."
 
-Daniel nodded. He looked out into the luminance and let it hold him one last moment.
+Zev nodded. He looked out into the luminance and let it hold him one last moment.
 
 "I'm ready. Will you be there?" he asked.
 
 "Always," They said. "In the stillness of early morning. In the work of your hands. In the kindness of strangers, and in the small dignities you show to those who cannot repay you. Even in the snow you find so ridiculous. I have never once left you."
 
-Daniel closed his eyes.
+Zev closed his eyes.
 
 Their voice came softly then, closer than breath:
 
@@ -145,7 +145,7 @@ He felt himself growing lighter.
 
 _With all its sham, drudgery, and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy._
 
-"I love you, Daniel."
+"I love you, Zev."
 
 The light was inside him now, carrying him forward—
 
@@ -153,7 +153,7 @@ The light was inside him now, carrying him forward—
 
 He saw his life. All of it, at once, whole. Every ordinary moment. Every failure and every small grace. He saw it clearly, without judgment, and it was enough.
 
-Then darkness.
+Darkness.
 
 Then light.
 
