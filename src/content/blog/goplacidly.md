@@ -69,7 +69,7 @@ They drew closer — not moving, exactly, but nearer somehow, the warmth of Them
 
 Silence. The light around them seemed to soften, as though it were listening.
 
-"What is the point?" Daniel asked. The genuine, exhausted question of a man only now getting around to it.
+"What is the point?" Daniel asked. The genuine, exhausted question of someone only now getting around to it.
 
 There was something in Their presence then — sorrow and joy so braided together they could not be separated, ancient and immediate at once.
 
@@ -131,7 +131,7 @@ When he looked up again, something had shifted in him — the expression of a ma
 
 Daniel nodded. He looked out into the luminance and let it hold him one last moment.
 
-"Will you be there?" he asked.
+"I'm ready. Will you be there?" he asked.
 
 "Always," They said. "In the stillness of early morning. In the work of your hands. In the kindness of strangers, and in the small dignities you show to those who cannot repay you. Even in the snow you find so ridiculous. I have never once left you."
 
