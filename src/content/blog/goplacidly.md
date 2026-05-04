@@ -1,5 +1,5 @@
 ---
-title: "Go Placidy"
+title: "Go Placidly"
 description:
   ''
 icon: "2"
