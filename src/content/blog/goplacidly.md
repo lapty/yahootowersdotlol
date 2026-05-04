@@ -9,7 +9,7 @@ heroImage: "/src/assets/trung.jpg"
 
 # Go Placidly
 
-The first thing Daniel noticed was the quiet.
+The first thing he noticed was the quiet.
 
 Not the quiet of a room with the television off, or a street after midnight — but a quiet that felt structural, like the space between notes in music he had never heard before. It held him completely, without effort.
 
