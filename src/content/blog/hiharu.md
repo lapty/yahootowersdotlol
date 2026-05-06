@@ -4,7 +4,7 @@ description:
   ''
 icon: "2"
 pubDate: "May 6 2026"
-heroImage: "/src/assets/trung.jpg"
+heroImage: "/src/assets/ricehero.svg"
 ---
 
 #田んぼ通信 第一号 
@@ -17,4 +17,4 @@ heroImage: "/src/assets/trung.jpg"
 静かに光る
 君と見たいな
 
-![alt text](src/assets/trungthree.jpg "Brothers")
+![alt text](src/assets/ending.svg "Distant Rice")
