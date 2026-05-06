@@ -4,7 +4,7 @@ description:
   ''
 icon: "2"
 pubDate: "May 6 2026"
-heroImage: "/src/assets/ricehero.svg"
+heroImage: "/src/assets/vietricefield.jpg"
 ---
 
 #田んぼ通信 第一号 
@@ -21,4 +21,4 @@ heroImage: "/src/assets/ricehero.svg"
 静かに光る<br>
 君と見たいな<br>
 
-![alt text](src/assets/ending.svg "Distant Rice")
+![alt text](src/assets/rice.png "Distant Rice")
