@@ -157,4 +157,4 @@ Darkness.
 
 Then light.
 
-Charles, new and furious, opened his lungs and cried.
+Charlotte, new and furious, opened her lungs and cried.
