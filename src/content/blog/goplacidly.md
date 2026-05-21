@@ -158,3 +158,5 @@ Darkness.
 Then light.
 
 Charlie, new and furious, opened their lungs and cried.
+
+(https://www.desiderata.com/desiderata.html)
