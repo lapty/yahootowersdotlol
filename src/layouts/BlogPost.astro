@@ -76,6 +76,14 @@ const getRandomClass = () => {
           </div>
           <div class="flex justify-between py-10 md:flex-row flex-col">
             <div class="prose md:w-1/2 flex flex-col">
+              <button
+                type="button"
+                data-lang-toggle
+                data-lang="ja"
+                class="hidden self-start mb-4 text-sm border-1 border-black rounded-lg px-3 py-1 bg-pyellow shadow-card hover:shadow-hover transition"
+              >
+                Read in English
+              </button>
               <slot />
             </div>
             <div class="flex flex-col gap-6" transition:animate="slide">
@@ -140,5 +148,45 @@ const getRandomClass = () => {
       </article>
     </main>
     <Footer />
+    <script>
+      function initLangToggle() {
+        const btn = document.querySelector<HTMLButtonElement>("[data-lang-toggle]");
+        if (!btn) return;
+
+        const hasTranslation = document.querySelector(".lang-en");
+        if (!hasTranslation) {
+          btn.classList.add("hidden");
+          return;
+        }
+
+        btn.classList.remove("hidden");
+        btn.dataset.lang = "ja";
+        btn.textContent = "Read in English";
+      }
+
+      function applyLang(lang: string) {
+        document.querySelectorAll<HTMLElement>(".lang-ja").forEach((el) => {
+          el.hidden = lang !== "ja";
+        });
+        document.querySelectorAll<HTMLElement>(".lang-en").forEach((el) => {
+          el.hidden = lang !== "en";
+        });
+
+        const btn = document.querySelector<HTMLButtonElement>("[data-lang-toggle]");
+        if (btn) {
+          btn.dataset.lang = lang;
+          btn.textContent = lang === "ja" ? "Read in English" : "日本語で読む";
+        }
+      }
+
+      document.addEventListener("click", (e) => {
+        const btn = (e.target as HTMLElement).closest<HTMLButtonElement>("[data-lang-toggle]");
+        if (!btn) return;
+        applyLang(btn.dataset.lang === "ja" ? "en" : "ja");
+      });
+
+      initLangToggle();
+      document.addEventListener("astro:page-load", initLangToggle);
+    </script>
   </body>
 </html>
