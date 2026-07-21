@@ -9,6 +9,8 @@ heroImage: "/src/assets/niigatariceterrace.jpg"
 
 #田んぼ通信 第二号
 
+<div class="lang-ja">
+
 彼女はまた、旅立つ。
 <br><br>
 今回は、留守の間に彼女の大切な子どもを預かることになった。食べすぎた幼子ほどの大きさに育った、サンセベリアだ。指を葉に沿わせ、湿らせた布でその碧緑の腕を拭く。植物は健康で、生き生きとして、その上にきちんと掛けられた江戸時代の火消しの木版画の下端に、葉先がそっと触れるほど背が高い。
@@ -27,9 +29,10 @@ heroImage: "/src/assets/niigatariceterrace.jpg"
 タバコをやめると、約束した。<br><br>
 ポールの中国煙草が、天にも恥じるように燃えている。
 
-<br><br>
-<details>
-<summary><strong>EN</strong></summary>
+</div>
+
+<div class="lang-en" hidden>
+
 She's leaving again.
 <br><br>
 This time she let me take care of her precious child while she is away, a well-grown snake plant the size of an overfed toddler. I run my fingers down the leaves and take a damp cloth to their viridian arms. The plant is healthy, happy and tall enough to touch the bottom of the woodblock print of a firefighter in the Edo period hung neatly above.
@@ -51,6 +54,7 @@ The snake plant is shushing me.
 I told her I'd quit smoking. 
 <br><br>
 Paul's Chinese cigarettes burn with heavenly shame.
-</details>
+
+</div>
 
 ![alt text](src/assets/edo.jpg "Distant Rice")

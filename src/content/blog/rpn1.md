@@ -9,6 +9,8 @@ heroImage: "/src/assets/vietricefield.jpg"
 
 #田んぼ通信 第一号 
 
+<div class="lang-ja">
+
 人生は、甘くて、苦くて、長い。
 頭も心も、ずっと前から知っていた気がする——自分が認めるよりも、ずっと前から。<br>
 ただ、その時はまだ来ていなかった。君にも、私にも。<br>
@@ -20,9 +22,11 @@ heroImage: "/src/assets/vietricefield.jpg"
 遠き田が<br>
 静かに光る<br>
 君と見たいな<br>
-<br><br>
-<details>
-<summary><strong>EN</strong></summary>
+
+</div>
+
+<div class="lang-en" hidden>
+
 Life is sweet, bitter, and long.<br>
 I think some part of me had already known — both mind and heart — long before I was willing to say so.<br>
 But the moment hadn't come yet. Not for you. Not for me.
@@ -35,6 +39,7 @@ quietly glowing —<br>
 <br>
 I want to see it<br>
 with you.
-</details>
+
+</div>
 
 ![alt text](src/assets/rice.png "Distant Rice")

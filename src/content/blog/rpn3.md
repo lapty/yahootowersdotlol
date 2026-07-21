@@ -9,6 +9,8 @@ heroImage: "/src/assets/ricepaddyaizu.jpeg"
 
 #田んぼ通信 第三号
 
+<div class="lang-ja">
+
 苺は私にとって変わってしまった。<br>
 どこにでも目に入る —<br>
 小さな赤い重み、気づかずにいられない。<br>
@@ -27,9 +29,10 @@ heroImage: "/src/assets/ricepaddyaizu.jpeg"
 <br>
 一日は、恋しさから始まった。
 
-<br><br>
-<details>
-<summary><strong>EN</strong></summary>
+</div>
+
+<div class="lang-en" hidden>
+
 Strawberries have changed for me.<br>
 I see them everywhere now —<br>
 small red weights I can't stop noticing.<br>
@@ -40,13 +43,14 @@ sweet enough to lift like a kite catching wind.<br>
 <br>
 I'm thinking of her again —<br>
 catching one more glimpse<br>
-at her sleeping face<br>
+of her sleeping face<br>
 before I leave in the morning,<br>
 <br>
 her closed eyes,<br>
 her mouth soft around a private smile.<br>
 <br>
 My day began with yearning.
-</details>
+
+</div>
 
 ![alt text](src/assets/strawberry.JPG "Distant Rice")
